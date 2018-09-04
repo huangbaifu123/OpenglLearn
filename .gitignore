@@ -33,3 +33,6 @@ OpenGLTest/OpenGLTest/x64/Debug/vc120.idb
 OpenGLTest/OpenGLTest/x64/Debug/vc110.pdb
 OpenGLTest/OpenGLTest/x64/Debug/vc110.idb
 OpenGLTest/OpenGLTest/x64/Debug/OpenGLTest.lastbuildstate
+*.mfs
+*.idb
+*.pdb
